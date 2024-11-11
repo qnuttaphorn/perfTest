@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Dhttp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Djdk.debug=release, -Dsbt.script=/opt/homebrew/Cellar/sbt/1.10.5/libexec/bin/sbt, -Dsbt.ipcsocket.tmpdir=/var/folders/pz/50kt_w717zgbdb7xhnw0z9zmvwm2b9/T/.sbta966860e/ipcsocket, -Dswoval.tmpdir=/var/folders/pz/50kt_w717zgbdb7xhnw0z9zmvwm2b9/T/.sbta966860e/swoval, -Dftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Dnative.encoding=UTF-8, -Dscala.ext.dirs=/Users/70008617/.sbt/1.0/java9-rt-ext-oracle_corporation_17_0_12, -DsocksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, -server, -Xmx1G, -XX:+HeapDumpOnOutOfMemoryError, -XX:+UseG1GC, -XX:+ParallelRefProcEnabled, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -XX:-UseBiasedLocking)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(computerdatabase.BasicSimulation, sbt.ForkMain$SubclassFingerscan@282ba1e, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation BasicSimulation successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation(s) execution ended.[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	computerdatabase.BasicSimulation[0m

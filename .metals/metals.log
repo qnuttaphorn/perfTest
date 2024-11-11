@@ -1,0 +1,954 @@
+2024.11.11 11:06:29 INFO  Started: Metals version 1.4.0 in folders '/Users/70008617/perfTest' for client Visual Studio Code 1.95.0.[0m
+2024.11.11 11:06:29 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.[0m
+2024.11.11 11:07:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:07:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:07:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:09 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:19 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:22 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:22 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:09:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:09:44 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:11:46 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:11:46 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:11:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:11:47 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:11:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:11:48 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:11:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:11:48 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:12:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:12:46 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:46 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:48 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:12:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:49 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:12:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:49 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:12:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:12:56 INFO  Shutting down server[0m
+2024.11.11 11:12:56 INFO  shutting down Metals[0m
+2024.11.11 11:12:56 INFO  Exiting server[0m
+2024.11.11 11:13:07 INFO  Started: Metals version 1.4.0 in folders '/Users/70008617/perfTest' for client Visual Studio Code 1.95.0.[0m
+2024.11.11 11:13:08 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.[0m
+2024.11.11 11:13:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:13:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Nov 11, 2024 11:13:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 11, 2024 11:13:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2024.11.11 11:13:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:13:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:13:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:16:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:16:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:19:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:12 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:19:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:19:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:19:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:14 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:16 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:17 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:17 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:31 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:31 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:35 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:43 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:43 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:43 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:53 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:53 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:53 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:55 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:56 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:56 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 11:20:58 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:58 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:20:59 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:04 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 11:21:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:04 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 11:21:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:04 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 11:21:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:06 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 11:21:06 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 11:21:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 11:21:06 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:40:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:40:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:40:16 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:41:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:25 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:41:26 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:41:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:41:26 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:43:31 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:31 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:31 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:31 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:31 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:38 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:38 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:38 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:43:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:43:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:48:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:48:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:48:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:48:26 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:50:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:27 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:27 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:50:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:35 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:50:35 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:50:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:50:35 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:51:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:03 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:04 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:05 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:05 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:08 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:08 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:09 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:11 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:12 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:15 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:20 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:20 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:20 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:51:20 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:51:30 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:17 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:52:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:19 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:52:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:20 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:52:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:21 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:21 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:52:21 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:21 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:52:21 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:21 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:52:21 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:53:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:09 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:14 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:15 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:15 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:15 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:54:24 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:24 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:24 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:24 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:29 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:29 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:29 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:30 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:30 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:32 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:32 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:33 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:34 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:35 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:43 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:43 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:54:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:54:43 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 13:55:27 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:34 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:51 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:55:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:55 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:55:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:56 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:55:59 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:59 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:59 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:59 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:55:59 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:00 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:55:59 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:33 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:33 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:35 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:35 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:37 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:42 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:44 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:56:45 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:56:45 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:57:10 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:57:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:58:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:38 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:58:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:41 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:41 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:41 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:41 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:41 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:41 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:42 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:58:42 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:59:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:59:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:59:39 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:59:39 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:59:40 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 13:59:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:59:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 13:59:40 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:02:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:44 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:47 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:48 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:51 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:53 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:53 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:53 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:02:53 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:53 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:54 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:55 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:56 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:58 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:58 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:59 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:02:59 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:03:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:00 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:03:01 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:01 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:01 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:01 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:04 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:03:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:07 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:03:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:03:10 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:03:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:03:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:22 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:23 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:05:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:23 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:26 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:27 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:27 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:05:27 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:05:27 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:27 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:27 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:05:29 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:29 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:29 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:48 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:48 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:48 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:50 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:05:50 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:00 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:01 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:01 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:02 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:03 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:04 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:04 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:04 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:05 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:05 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:06 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:06 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:07 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:07 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:11 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:12 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:06:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:06:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:07:09 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:07:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:07:09 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:08:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:08:52 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:08:54 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:08:55 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:08:55 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:08:58 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:03 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:09:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:03 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:09:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:09:40 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:09:40 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:09:43 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:17 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:10:19 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/build.sbt[0m
+2024.11.11 14:11:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:02 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:03 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:03 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:11 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:13 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:16 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:16 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:18 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:19 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:19 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:20 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:11:20 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:11:20 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:08 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:09 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:10 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:10 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:09 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:11 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:11 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:12 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:12 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:12 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:35 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:36 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:37 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:37 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:37 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:36 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:38 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:38 WARN  no build target for: /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:14:38 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:14:38 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:25:51 INFO  Shutting down server[0m
+2024.11.11 14:25:51 INFO  shutting down Metals[0m
+2024.11.11 14:25:51 INFO  Exiting server[0m
+2024.11.11 14:25:51 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1623)
+[0m
+2024.11.11 14:27:13 INFO  Started: Metals version 1.4.0 in folders '/Users/70008617/perfTest' for client Visual Studio Code 1.95.2.[0m
+2024.11.11 14:27:13 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.[0m
+2024.11.11 14:27:13 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:27:14 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:27:14 WARN  Could not find semantic tokens for: file:///Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt[0m
+2024.11.11 14:27:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:27:25 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2024.11.11 14:27:49 INFO  no build target found for /Users/70008617/perfTest/ipartner-perftest/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
